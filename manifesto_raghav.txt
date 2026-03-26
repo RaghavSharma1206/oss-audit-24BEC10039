@@ -1,0 +1,13 @@
+
+Open Source Manifesto — Raghav Sharma
+Date: 26 March 2026
+-------------------------------
+
+Every day, I rely on python3 — a tool built freely by people who believed
+that knowledge should be shared, not locked away. To me, freedom means choice.
+That is the spirit of open source: the choice to use, study, modify and share.
+If I could build anything and share it with the world, I would build a free education app —
+and I would release it openly, so others could learn from it, improve it,
+and pass it forward. Open source is not just a license. It is a promise.
+
+— Raghav Sharma, Open Source Software Course, 26 March 2026
